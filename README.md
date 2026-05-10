@@ -21,4 +21,5 @@ Tools Used
 - Slicers & Timeline
 
 📷 Dashboard Preview
-(Pro1.png)
+
+![Dashboard Preview](Pro1.png)
