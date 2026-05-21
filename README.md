@@ -62,4 +62,5 @@ This project explores transactional sales data from a coffee shop, transforming 
 
 ## 👤 Author
 
-**Mohamed Ashraf**[LinkedIn](https://www.linkedin.com/in/mohamedmogin/) | [GitHub
+**Mohamed Ashraf**
+[LinkedIn](https://www.linkedin.com/in/mohamedmogin/) 
