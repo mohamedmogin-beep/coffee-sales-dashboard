@@ -56,7 +56,7 @@ This project explores transactional sales data from a coffee shop, transforming 
 
 📷 Dashboard Preview
 
-![Dashboard Preview](/D:\Projects\Coffee Shop/Pro1.png)
+![Dashboard Preview](Pro1.png)
 
 * * *
 
